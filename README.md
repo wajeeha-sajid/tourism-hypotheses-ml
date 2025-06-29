@@ -1,6 +1,3 @@
-# tourism-hypotheses-ml
-Machine learning and deep learning models applied to validate hypotheses on tourist satisfaction, loyalty, and destination image in behavioral research.
-
 # 🧠 Hypothesis Validation in Tourism Studies using Machine Learning & MLP
 
 This project applies machine learning models and neural networks to validate hypotheses related to tourist satisfaction, destination image, and loyalty — key factors in tourism research.

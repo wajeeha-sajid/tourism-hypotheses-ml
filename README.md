@@ -54,6 +54,9 @@ To replicate this project, use any behavioral or tourism dataset that includes f
 - Explore deep learning architectures beyond MLP  
 - Perform error analysis on misclassified cases
 
+## 🏷️ Tags
+#MachineLearning #DeepLearning #PyTorch #AI
+
 ## 👩‍💻 Author
 
 **Wajeeha Sajid**  
